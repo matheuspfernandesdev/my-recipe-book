@@ -1,2 +1,31 @@
-# my-recipe-book
-This repository contains a .NET 8 API designed for a mobile application, following clean architecture principles. It includes authentication, database integration with Entity Framework Core, and RESTful endpoints. Built for scalability and performance, it supports JWT/OAuth authentication and can be containerized with Docker
+📌 .NET API for Mobile Application
+This repository contains a .NET API that serves as the backend for a mobile application. The API is built using .NET 8 and follows clean architecture principles to ensure scalability, maintainability, and performance.
+
+🚀 Features
+RESTful endpoints for mobile integration
+
+Authentication & Authorization (JWT or OAuth)
+
+Entity Framework Core for database operations
+
+Logging & Error Handling
+
+CI/CD pipeline setup (optional)
+
+📌 Tech Stack
+Backend: .NET 8, ASP.NET Core Web API
+
+Database: SQL Server / PostgreSQL (TBD)
+
+Authentication: JWT / OAuth
+
+Containerization: Docker 
+
+📖 Setup Instructions
+Clone the repository
+
+Install dependencies with dotnet restore
+
+Configure database connection in appsettings.json
+
+Run the API with dotnet run
