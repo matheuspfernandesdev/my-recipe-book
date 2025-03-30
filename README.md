@@ -17,9 +17,9 @@ This repository contains a .NET API that serves as the backend for a mobile appl
 
 🔹Backend: .NET 8, ASP.NET Core Web API
 
-🔹Database: SQL Server / PostgreSQL (TBD)
+🔹Database: SQL Server
 
-🔹Authentication: JWT / OAuth
+🔹Authentication: JWT
 
 🔹Containerization: Docker 
 
