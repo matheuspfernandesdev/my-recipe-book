@@ -23,12 +23,5 @@ This repository contains a .NET API that serves as the backend for a mobile appl
 
 🔹Containerization: Docker 
 
-📖 Setup Instructions
 
-🔹Clone the repository
-
-🔹Install dependencies with dotnet restore
-
-🔹Configure database connection in appsettings.json
-
-🔹Run the API with dotnet run
+🪄 The source code for this project is hosted on Azure DevOps, and this documentation will be updated here on GitHub as the project progresses. This repository serves as a reference for the API usage documentation.
